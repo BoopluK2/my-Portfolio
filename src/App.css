@@ -289,6 +289,8 @@ body {
   .skills--section--img img{
     width: 60px;
     height: 60px;
+
+    
   }
   .skills--section--card--content {
     display: flex;
@@ -353,6 +355,7 @@ body {
     gap: 42.6px;
     width: 100%;
   }
+  
   .portfolio--section--img {
     border-radius: 8px;
     width: 100%;
