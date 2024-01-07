@@ -5,19 +5,19 @@ export default function HeroSection() {
           <div className="hero--section--content">
             <p className="section--title">Привет, Я Авазбек</p>
             <h1 className="hero--section--title">
-              <span className="hero--section-title--color">Фронтед</span>{" "}
+              <span className="hero--section-title--color">Fronted</span>{" "}
               <br />
-              Девелопер
+              Developer
             </h1>
             <p className="hero--section-description">
               
-              <br /> Dolorum, quas. Amet soluta assumenda cum?
+              <br /> Привет Я Аваз выучился фрондету самостоятельно, освоил такие как Javascript, React, Typescript, Css, Next Js, Vite. Люблю решат головоломки и  логические задачи. Открыт к новым возможностям.
             </p>
           </div>
           <button className="btn btn-primary">Связаться со мной</button>
         </div>
         <div className="hero--section--img">
-          {/* <img src="./img/hero_img.png" alt="Hero Section" /> */} 
+          <img src="./img/iconavatar.png" alt="Hero Section" /> 
         </div>
       </section>
     );
