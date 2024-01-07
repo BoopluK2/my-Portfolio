@@ -64,21 +64,21 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
+        "src": "./img/1.png",
         "title": "To Do App",
         "description": "",
         "link": "https://github.com/BoopluK2/My-todo"
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
+        "src": "./img/2.png",
         "title": "Cloth Shop",
         "description": "",
         "link": "https://github.com/BoopluK2/My-Proj"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
+        "src": "./img/3.png",
         "title": "Homyz",
         "description": "",
         "link": "https://github.com/BoopluK2/vite-app"
